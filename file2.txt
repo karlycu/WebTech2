@@ -1,1 +1,2 @@
 Content for another file
+Finalizing content in file2
